@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║  kimwunhae · GitHub Profile README                            ║
-     ║  Edit freely — sections are independent blocks.               ║
+     ║  Edit freely — sections are independent blocks.               ║ 
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
