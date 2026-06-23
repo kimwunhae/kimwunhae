@@ -80,6 +80,23 @@ philosophy:  "Ship it, observe it, make it boring." # 안정적인 운영이 최
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimwunhae&hide_border=true&theme=tokyonight&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="streak" />
 
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimwunhae&theme=tokyo-night&bg_color=00000000&hide_border=true&line=FF9900&color=FF9900&point=ffffff&area=true&area_color=FF9900" alt="contribution activity graph" />
+
+<br/>
+
+<!-- snake-start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimwunhae/kimwunhae/output/snake-dark.svg" />
+  <img width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/kimwunhae/kimwunhae/output/snake.svg" />
+</picture>
+<!-- snake-end -->
+
+<br/>
+
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=kimwunhae&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="github trophies" />
+
 </div>
 
 ---
