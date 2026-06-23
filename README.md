@@ -93,10 +93,6 @@ philosophy:  "Ship it, observe it, make it boring." # 안정적인 운영이 최
 </picture>
 <!-- snake-end -->
 
-<br/>
-
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=kimwunhae&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="github trophies" />
-
 </div>
 
 ---
